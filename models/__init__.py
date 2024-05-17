@@ -6,8 +6,7 @@ from .utils import fetch
 # UTILS
 async def info():
     return {
-    "project":"simple-scrape-api",
-    "note":"This api is made for educational purpouse only. This is just a simple scrapper built arround `Ciarands` vidsrc downloader/resolver.This project was only made to prevent ads and redirects caused by the `iframe`s",
+    "note":"Vidsrc filemoon rest api",
     "version": VERSION,
-    "developer":"cool-dev-guy"
+    "dev":"highrisk"
     }
